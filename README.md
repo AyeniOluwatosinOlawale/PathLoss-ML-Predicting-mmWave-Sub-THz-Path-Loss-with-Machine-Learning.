@@ -1,0 +1,2 @@
+# PathLoss-ML-Predicting-mmWave-Sub-THz-Path-Loss-with-Machine-Learning.
+Machine Learning-Based Path Loss Prediction for mmWave &amp; Sub-THz Networks  This repo explores ML models (Gradient Boosting, Random Forest, XGBoost, AdaBoost) to predict path loss in Urban Macro &amp; Microcell environments using NYUSIM 4.0 data. Results show meteorological factors impact signal loss, with Gradient Boosting performing best.
